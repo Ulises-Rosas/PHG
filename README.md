@@ -1,3 +1,3 @@
 # PHG
 
-* [Problem Set 1](https://github.com/Ulises-Rosas/PHG/tree/master/PS2)
+* [Problem Set 2](https://github.com/Ulises-Rosas/PHG/tree/master/PS2)
